@@ -1,0 +1,5 @@
+C:/Users/tudor/OneDrive/Desktop/FACULTATE/SEMESTRUL_2/OOP/lab10-11/cmake-build-debug/CMakeFiles/lab10_11.dir
+C:/Users/tudor/OneDrive/Desktop/FACULTATE/SEMESTRUL_2/OOP/lab10-11/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tudor/OneDrive/Desktop/FACULTATE/SEMESTRUL_2/OOP/lab10-11/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/tudor/OneDrive/Desktop/FACULTATE/SEMESTRUL_2/OOP/lab10-11/cmake-build-debug/CMakeFiles/lab10_11_autogen_timestamp_deps.dir
+C:/Users/tudor/OneDrive/Desktop/FACULTATE/SEMESTRUL_2/OOP/lab10-11/cmake-build-debug/CMakeFiles/lab10_11_autogen.dir
